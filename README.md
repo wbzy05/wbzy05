@@ -9,6 +9,17 @@
 <p> <img src="https://komarev.com/ghpvc/?username=timalsina-yuvraj&label=Profile%20Views&color=0e75b6&style=flat" alt="timalsina-yuvraj" /> </p>
 </div>
 
+# 🧑‍💻 About Me
+Hello there! this is Muhammad Awwab. I'am a Self taught Laravel developer.
+
+
+
+
+
+
+
+
+
 <!--
 **wbzy05/wbzy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
